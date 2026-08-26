@@ -1,0 +1,11 @@
+{
+  "name": "ps1-zerogravity",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "cd energy-dashboard && npm run dev",
+    "build": "cd energy-dashboard && npm run build",
+    "start": "cd energy-dashboard && npm run start",
+    "lint": "cd energy-dashboard && npm run lint"
+  }
+}

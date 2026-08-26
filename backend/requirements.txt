@@ -1,0 +1,11 @@
+google-generativeai
+fastapi[all]
+groq
+pydantic
+prophet
+pandas
+numpy
+scikit-learn
+openpyxl
+lightgbm
+uvicorn
